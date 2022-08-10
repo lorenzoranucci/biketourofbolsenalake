@@ -4,7 +4,7 @@
 <!-- Custom CSS via inline styles
      You may use this template to add custom CSS to your site like so: -->
 
-<!-- <style>
+<style>
      /* Links */
      a:hover {
          color: #b6b84c;
@@ -44,7 +44,12 @@
           color: #BBC7CC;
           background-color: #22343A;
      }
-</style> -->
+
+     .language ul{
+         float: right;
+         padding-right: 5%;
+     }
+</style>
 
 <!-- Custom CSS via "custom.css"-file
      If you would rather place your custom CSS into
@@ -78,3 +83,22 @@
   sizes="16x16"
   href="{{ "images/favicon-16x16.png" | absURL }}"
 />
+
+{{ if .IsTranslated }}
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+{{ end }}
+{{ end }}
+
+{{ if .IsTranslated }}
+<div class="language">
+    <ul>
+        {{ range .Translations }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Lang }} {{if eq .Lang "it"}} 🇮🇹 {{end}} {{if eq .Lang "en"}} 🇬🇧 {{end}} </a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+
+{{ end }}

@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+39 3331650588](tel:+393331650588)
 
-Let us get in touch!
+
