@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Ian Verdecchia](/images/ian_profile.jpeg)
+![Lago Panoramica](/images/lago_panoramica.jpeg)
 
 
 Guida Mtb certificata che parla Inglese, Danese ed Italiano!

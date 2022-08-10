@@ -4,6 +4,6 @@ weight: 3
 header_menu: true
 ---
 
-![Ian Verdecchia](/images/ian_profile.jpeg)
+![Lago Panoramica](/images/lago_panoramica.jpeg)
 
 Certified MTB guide who speaks English, Danish and Italian!
