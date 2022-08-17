@@ -4,7 +4,6 @@ weight: 1
 ---
 
 - Guida Mtb certificata che parla Inglese, Danese ed Italiano!
-- Noleggio E-Bike Mountain bike e Trekking
 - Degustazioni con i nostri partners
 - Bike Shuttle per Tour personalizzati.
 
