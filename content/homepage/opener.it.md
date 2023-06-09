@@ -15,5 +15,5 @@ Info e prenotazioni:
 
 [![Facebook](/images/icons8-facebook-nuovo-48.png)](https://www.facebook.com/BikeTourOfBolsenaLake)
 
-[![Instagram](/images/icons8-instagram-48.png)](https://www.instagram.com/wheel_ian/) 
+[![Instagram](/images/icons8-instagram-48.png)](https://www.instagram.com/bike_tour_bolsena_lake) 
 
