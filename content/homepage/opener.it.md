@@ -6,6 +6,7 @@ weight: 1
 - Guida Mtb certificata che parla Inglese, Danese ed Italiano!
 - Degustazioni con i nostri partners
 - Bike Shuttle per Tour personalizzati.
+- Noleggio bici elettriche
 
 E' richiesta prenotazione!
 
