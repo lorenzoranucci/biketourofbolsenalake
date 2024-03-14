@@ -6,6 +6,7 @@ weight: 1
 - Certified MTB guide who speaks English, Danish and Italian!
 - Tastings with our partners
 - Bike Shuttle for customized tours
+- Electric bike rental
 
 Reservation is required!
 
